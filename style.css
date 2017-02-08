@@ -1,0 +1,96 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    
+}
+#header{
+    background-color: deepskyblue;
+    box-shadow: 5px 5px  5px #333333;
+    text-align: center;
+    width: 100%;
+    padding: 1%;
+    color: white;
+    height: 100px;
+    
+}
+
+.wellcome{
+    margin-top: 50px;
+    text-align: center;
+    
+}
+.wellcome button{
+    padding: 1% 2%;
+    background: #aaaaaa;
+    border: 1px solid #999999;
+    border-radius: 2px 2px;
+}
+
+#status{
+    text-align: center;
+     color: white;
+    padding: 1%;
+    background: deepskyblue;
+    
+}
+
+#test{
+    width: 80%;
+    margin: 2% auto   ;
+    padding: 2%;
+    min-height: 370px;
+    background-color: lightgoldenrodyellow;
+     box-shadow: 5px 5px  5px #333333;
+    position: relative;
+     border-radius: 20px 20px 20px 20px; 
+}
+#question{
+    margin-bottom: 5%;
+    padding-bottom: 1%;
+    border-bottom: 1px solid #aaaaaa;
+     border-radius: 6px 6px 6px 6px; 
+}
+.optionBtn{
+    
+    margin: 1%;
+   
+}
+#nextBtn{
+    position: absolute;
+    top: 85%;
+    left: 45%;
+    padding: 1% 2%;
+    background: #aaaaaa;
+    border: 1px solid #999999;
+    border-radius: 2px 2px;
+    
+}
+#createBtn{
+    position: absolute;
+    top: 19%;
+    left: 35%;
+    padding: 1% 2%;
+    background: #aaaaaa;
+    border: 1px solid #999999;
+    border-radius: 2px 2px;
+    
+}
+
+#complete{
+    text-align: center;
+    padding: 5%;
+    margin: 5% auto;
+}
+.resultBox{
+    width: 50%;
+    background: blue
+ 
+}
+
+#footer{
+    
+    text-align: center;
+    width: 98%;
+    color: #333333;
+     
+}
